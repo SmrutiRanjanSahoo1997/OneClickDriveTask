@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">OneClickDriveTask</string>
+    <string name="input_box_3">Input Box 3</string>
+    <string name="input_box_2">Input Box 2</string>
+    <string name="input_box_1">Input Box 1</string>
+    <string name="calculate">Calculate</string>
 </resources>
